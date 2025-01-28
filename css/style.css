@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: #0077B6;
+}
+
+img {
+    width: 500px;
+}
+
+.container {
+    color: #CAF0F8;
+    margin-top: 30px;
+    background-color: #00B4D8;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+#results {
+    color: #03045E;
+    margin: 0 auto;
+    background-color: #90E0EF;
+    border-radius: 10px;
+    width: 50%;
+    padding-bottom: 40px;
+}
